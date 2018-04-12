@@ -1,8 +1,8 @@
 # Programme qui doit demander en input les adresses IP et générer un tableau par la suite
 # Une fois les adresses rentrées, on peut modifier le tableau généré par les adresses.
 
-# import os
-# import subprocess
+import os
+import subprocess
 
 var = []
 tableau = []
